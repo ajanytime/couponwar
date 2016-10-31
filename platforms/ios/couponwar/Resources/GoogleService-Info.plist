@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>435970149742-8ke0bs33d1r3tfbcmruf6cf8rr01fgn3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435970149742-8ke0bs33d1r3tfbcmruf6cf8rr01fgn3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnwHbNZTb3elETEDEKfwW-B3cqp6h-yL0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435970149742</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nativescript.couponwar</string>
+	<key>PROJECT_ID</key>
+	<string>couponwar-b1d5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>couponwar-b1d5b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435970149742:ios:d0667b0b96908a9b</string>
+	<key>DATABASE_URL</key>
+	<string>https://couponwar-b1d5b.firebaseio.com</string>
+</dict>
+</plist>
